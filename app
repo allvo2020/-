@@ -2,5 +2,49 @@
   {
     "text": "آموزش ساخت پروفایل حرفه ای",
     "image": "https://uupload.ir/files/b0wh_img_20210323_164254_674.jpg",
-     "video240": "https://hw19.cdn.asset.aparat.com/aparat-video/2d67d4228c0cba4b1beb6b4c8290fc2132697352-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY3ODk0ZTQxMWI0ZThkZDY4ZDZmNTlkNTA0MGI1Y2U0IiwiZXhwIjoxNjE5NTQ0MzAwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.lFyezPUulAJleiMcBZ-qWKdIIhON_CdmnKjDbaywqjY",
-     "video120": "https://as11.cdn.asset.aparat.com/aparat-video/2d67d4228c0cba4b1beb6b4c8290fc2132697352-144p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQxZmQ4MzBlN2U5YmNhYTI5OWIxYzZiODAzZDdiNTI2IiwiZXhwIjoxNjE5NTQ0NDY0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.6e6VJhNZ5Or1WvemF4vIVIz1JCoHiomxAbi6Y9zCDGkCJ9.eyJ0b2tlbiI6IjY3ODk0ZTQxMWI0ZThkZDY4ZDZmNTlkNTA0MGI1Y2U0IiwiZXhwIjoxNjE5NTQ0MzAwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.lFyezPUulAJleiMcBZ-qWKdIIhON_CdmnKjDbaywqjY",
+    "video": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/8b086648ddd4f661c2d4f3c97e8e777431448181-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVmZWU1NTQyMjk4ZDU5NTE0YzVhY2NjNTU0YWJhMzdkIiwiZXhwIjoxNjE2NzA0NTMzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.w-u5BbhG30t2REOgYTS1j8wtqDWcc5P2NCItbkXrkwA",
+    "text2": "قسمت ۴"
+  },
+  {
+    "text": "آموزش گذاشتن‌پست پازلی",
+    "image": "https://uupload.ir/files/q7el_img_20210323_164256_655.jpg",
+    "video": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/1920fd8d1a64db67766b23dae369d4b631448090-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY5MjFlZjc5MDZiY2Q3NjkxZTFmODViZjAxYjA4OGZlIiwiZXhwIjoxNjE2NzA0NzA1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.qiIM1mpFgQrrzggx77iAboJem7A4YSj4X1ZEoxR99qk",
+    "text2": "امیدوارم از این آموزش لذت برده باشید"
+  },
+  {
+    "text": "آموزش تغییر رنگ چشم",
+    "image": "https://uupload.ir/files/ba0_img_20210323_164306_724.jpg",
+    "video": "https://aspb20.cdn.asset.aparat.com/aparat-video/f9e455d8e34f743aba31f64d79503d8530896743-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQyOTNiODc1NGM1ODAxZTJiYjU0OGEyNTcwNjA1MmE5IiwiZXhwIjoxNjE2NzA1MTc2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.aOL4UfdBJJLXXO2H5hLLoIF5SciGsfCme8u5obk3IDc",
+    "text2": "با برنامه فتوشاپ"
+  },
+  {
+    "text": "آموزش ساخت زیلینک",
+    "image": "https://uupload.ir/files/enuq_img_20210323_164238_539.jpg",
+    "video": "https://aspb20.cdn.asset.aparat.com/aparat-video/02f50b0a63184e35667791791c0adebf30406460-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjcwMjQ2YmJlMTYzZGIwZTQ0OTA5Yzg1YTQ4ZTEzYjhjIiwiZXhwIjoxNjE2NzA1MjU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.q9Sp2sckGji_LPh-daUKhy9ymhmS3LjZWgWGrKl03Eg",
+    "text2": "www.zil.ink"
+  },
+  {
+    "text": "حذف اشیا اضافه در عکس",
+    "image": "https://uupload.ir/files/uzrf_img_20210323_164208_072.jpg",
+    "video": "https://aspb20.cdn.asset.aparat.com/aparat-video/7705421a7bc1490acbf7f360b9c37afa29621351-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjdmY2QwMGQwNmU2NDQxMmEwZGZlZDViNjE0YzJiNDQ2IiwiZXhwIjoxNjE2NzA1NDM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.iNqYzImSDhpZelWCttEdFbSpps3AYNlUsO4eZ6pQ2uc",
+    "text2": "با نرم افزار پیکس آرت"
+  },
+  {
+    "text": "متن با ویدئو ترکیپ کن",
+    "image": "https://uupload.ir/files/s25j_img_20210323_164233_219.jpg",
+    "video": "https://aspb22.cdn.asset.aparat.com/aparat-video/155bcdb5c326a4ca3d33746a9ca4211c29619495-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg3ODkxZjkyODA1NTczZjYyMGY0ODcxZDBkZDkyMjgwIiwiZXhwIjoxNjE2NzA2NDM3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.hcsmG1t0zcNsjeg-UuqGI4UQEEoLUX9qcwiCPwA6qnA",
+    "text2": "با کاین مستر"
+  },
+  {
+    "text": "ساخت ویدئو گذر زمان",
+    "image": "https://uupload.ir/files/1cpd_img_20210323_164218_384.jpg",
+    "video": "https://aspb21.cdn.asset.aparat.com/aparat-video/a47e8896dd9e49602dff1144efe3378829619309-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFlZWYxMWIyYmFiM2NmMGNkMGMyM2YzYWI3OGZiMDU2IiwiZXhwIjoxNjE2NzA2NzE0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.tboCKrZlNlcK2v29Y61krA04wiTD8xZa2MSTsfjcfbk",
+    "text2": "امید وارم خوشتان آمده باشه"
+  },
+  {
+    "text": "طراحی کارت ویزیت و قرار دادن در موکاپ",
+    "image": "https://uupload.ir/files/93ho_img_20210323_164123_016.jpg",
+    "video": "https://aspb26.cdn.asset.aparat.com/aparat-video/173f7e62af5376291618e06828d58da228286559-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjMzNDk1MGE4NDFkYTJmMTQzMTM2ZTIzZTUxYjJlZGZiIiwiZXhwIjoxNjE2NzA2OTIzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.uGS4Dus4mxmT03lcD3R8UFvVehqSk4flsiV5vwAY-ms",
+    "text2": "با ادوبی فتوشاپ "
+  }
+]
