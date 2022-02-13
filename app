@@ -4,7 +4,6 @@
     "image": "https://uupload.ir/files/b0wh_img_20210323_164254_674.jpg",
     "video": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/8b086648ddd4f661c2d4f3c97e8e777431448181-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVmZWU1NTQyMjk4ZDU5NTE0YzVhY2NjNTU0YWJhMzdkIiwiZXhwIjoxNjE2NzA0NTMzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.w-u5BbhG30t2REOgYTS1j8wtqDWcc5P2NCItbkXrkwA",
     "text2": "یک روزی مردی با پسرش به خانه ی مادر بزرگ پدری اش رفتند😋😋😋😋😋😋😋😋",
-    "dev": "کتبینو"
   },
   {
     "text": "آموزش گذاشتن‌پست پازلی",
